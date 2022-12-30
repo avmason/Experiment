@@ -1,6 +1,4 @@
-spi3
-spi;;;;;;;;;;;;;;;;;
-spi_rank;country;spi_score;basic_human_needs;wellbeing;opportunity;basic_nutri_med_care;water_sanitation;shelter;personal_safety;access_basic_knowledge;access_info_comm;health_wellness;env_quality;personal_rights;personal_freedom_choice;inclusiveness;access_adv_edu
+Spi Rank;Country;Spi Score;Basic Human Needs;Wellbeing;Opportunity;Basic Nutri Med Care;Water Sanitation;Shelter;Personal Safety;Access Basic Knowledge;Access Info Comm;Health Wellness;Env Quality;Personal Rights;Personal Freedom Choice;Inclusiveness;Access Adv Edu
 1;Norway;92.63;95.29;93.30;89.30;98.81;98.33;93.75;90.29;98.66;95.80;89.32;89.44;96.34;91.16;83.77;85.92
 2;Finland;92.26;95.62;93.09;88.07;98.99;99.26;96.48;87.75;96.32;95.14;85.73;95.15;96.13;88.10;82.81;85.23
 3;Denmark;92.15;95.30;92.74;88.41;98.62;98.21;94.92;89.46;97.44;98.18;85.15;90.20;97.08;90.03;81.64;84.89
